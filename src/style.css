@@ -1,0 +1,22 @@
+.container {
+  margin: 0px 20px 0px 300px;
+  width: 950px;
+  flex-wrap: wrap;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  width: 300px;
+  height: 200px;
+  display: flex;
+
+  flex-direction: column;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+.id {
+  background-color: red;
+}
